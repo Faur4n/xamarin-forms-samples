@@ -11,6 +11,7 @@
            VerticalOptions="CenterAndExpand" />
 
         <Button Text="Click me" Clicked="Button_Clicked" />
+        <Button Text="Click me" Clicked="Button_Clicked" />
     </StackLayout>
 
 </ContentPage>
